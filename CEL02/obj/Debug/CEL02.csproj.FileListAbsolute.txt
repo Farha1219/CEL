@@ -1,0 +1,6 @@
+C:\Users\fardi\source\repos\CEL\CEL02\obj\Debug\CEL02.csproj.AssemblyReference.cache
+C:\Users\fardi\source\repos\CEL\CEL02\obj\Debug\CEL02.csproj.CoreCompileInputs.cache
+C:\Users\fardi\source\repos\CEL\CEL02\bin\Debug\CEL02.dll
+C:\Users\fardi\source\repos\CEL\CEL02\bin\Debug\CEL02.pdb
+C:\Users\fardi\source\repos\CEL\CEL02\obj\Debug\CEL02.dll
+C:\Users\fardi\source\repos\CEL\CEL02\obj\Debug\CEL02.pdb

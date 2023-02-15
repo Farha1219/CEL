@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CEL", "CEL\CEL.csproj", "{49C62E5D-83FC-4281-8073-CF5D6F78401B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CEL02", "CEL02\CEL02.csproj", "{C4402A7A-8C1B-454B-97A5-528C896FEBEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49C62E5D-83FC-4281-8073-CF5D6F78401B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49C62E5D-83FC-4281-8073-CF5D6F78401B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49C62E5D-83FC-4281-8073-CF5D6F78401B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49C62E5D-83FC-4281-8073-CF5D6F78401B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4402A7A-8C1B-454B-97A5-528C896FEBEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4402A7A-8C1B-454B-97A5-528C896FEBEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4402A7A-8C1B-454B-97A5-528C896FEBEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4402A7A-8C1B-454B-97A5-528C896FEBEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25582B73-68E1-4D89-BB57-32675EA3CCCC}
+	EndGlobalSection
+EndGlobal

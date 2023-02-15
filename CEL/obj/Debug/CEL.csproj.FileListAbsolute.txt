@@ -1,0 +1,10 @@
+C:\Users\fardi\source\repos\CEL\CEL\bin\Debug\CEL.exe.config
+C:\Users\fardi\source\repos\CEL\CEL\bin\Debug\CEL.exe
+C:\Users\fardi\source\repos\CEL\CEL\bin\Debug\CEL.pdb
+C:\Users\fardi\source\repos\CEL\CEL\obj\Debug\CEL.csproj.AssemblyReference.cache
+C:\Users\fardi\source\repos\CEL\CEL\obj\Debug\CEL.csproj.CoreCompileInputs.cache
+C:\Users\fardi\source\repos\CEL\CEL\obj\Debug\CEL.exe
+C:\Users\fardi\source\repos\CEL\CEL\obj\Debug\CEL.pdb
+C:\Users\fardi\source\repos\CEL\CEL\bin\Debug\CEL02.dll
+C:\Users\fardi\source\repos\CEL\CEL\bin\Debug\CEL02.pdb
+C:\Users\fardi\source\repos\CEL\CEL\obj\Debug\CEL.csproj.CopyComplete
